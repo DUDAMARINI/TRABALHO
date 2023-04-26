@@ -1,4 +1,4 @@
- .header{ background-color: #7ADF4A;}
+ .header{ background-color: #7ADF4A; 
 color: #530a0a;
 display:flex;
-juatify-content:space-around;)
+justify-content: space-around;}
