@@ -1,4 +1,14 @@
- .header{ background-color: #7ADF4A; 
-color: #530a0a;
-display:flex;
-justify-content: space-around;}
+estudantes-{ background-color: #ca4747;}
+estudantes-imagem {width:100px;}
+estudantes-titulos {padding:20px 0 0 150px;}
+
+estudante-div {text-aling:center;}
+       display:flex;
+       padding: 16px 0;
+       justify-content:center;
+}
+topico-estudante{
+    padding:0 60px;}
+todos-estudantes{
+
+         grip-template-columns: 20% 20% 20% 20%}
