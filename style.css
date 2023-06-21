@@ -1,14 +1,7 @@
-.estudantes-{ background-color: #ca4747;}
-.estudantes-imagem {width:100px;}
-.estudantes-titulos {padding:20px 0 0 150px;}
+;:root{
+--cor-de-fundo:#EBECEE;
 
-.estudante-div {text-aling:center;
-       display:flex;
-       padding: 16px 0;
-       justify-content:center;
 }
-.topico-estudante{
-    padding:0 60px;}
-.todos-estudantes{
-
-         grip-template-columns: 20% 20% 20% 20% 20% 20%;}
+body{
+    background-color:var(--cor-de-fundo) ;
+}
